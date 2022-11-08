@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(248, 112, 63);
+    padding: 10px;
+}
+
+.menus{
+    background-color: chocolate;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.main{
+    background-color: rgb(253, 135, 92);
+    height: 500px;
+}
+
+.footer{
+    background-color: rgb(248, 112, 63);
+    height: 250px;
+    
+}
+
+.boton-wp{
+    background-color: rgb(248, 112, 63);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.servicio{
+    background-color: firebrick;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.promociones{
+    background-color: rgb(234, 6, 6);
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+.separador{
+    display: inline-block;
+}
+
+.pie-del-video{
+    color: crimson;
+    margin: 10px;
+    padding: 10px;
+}
+
+.parrafo{
+    color: deeppink;
+}
+
+.div-parrafo{
+    margin: 10px;
+    padding: 10px;
+}
+
+.formulario{
+    margin: 10px;
+    padding: 10px;
+}
+
+.titulo-vid{
+    margin: 10px;
+    padding: 10px;
+}
+
+.video{
+    margin: 10px;
+    padding: 10px;
+}
